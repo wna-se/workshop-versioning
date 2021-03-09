@@ -26,9 +26,9 @@ to use it.
 
 This serves as an introduction to Git.  After this lesson, you will
 both be able to use Git, and feel much more confident taking a
-command-line course Git course such as
+command-line Git course such as
 [CodeRefinery's git-intro
-course](https://coderefinery.github.io/git-intro/).  Check out our
+course](https://coderefinery.github.io/git-intro/). Check out their
 [other upcoming workshops](https://coderefinery.org/workshops/upcoming/).
 
 > ## Why GitHub?
