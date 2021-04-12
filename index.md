@@ -4,47 +4,20 @@ root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-<!-- this is an html comment -->
+Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. Every large software development project relies on it, and most programmers use it for their small jobs as well. And it isn’t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system.
 
-{% comment %} This is a comment in Liquid {% endcomment %}
+Teams are not the only ones to benefit from version control: lone researchers can benefit immensely. Keeping a record of what was changed, when, and why is extremely useful for all researchers if they ever need to come back to the project later on (e.g., a year later, when memory has faded).
 
-# Collaborating and sharing using GitHub without command line
+They want to be able to work on the plans at the same time, but they have run into problems doing this in the past. If they take turns, each one will spend a lot of time waiting for the other to finish, but if they work on their own copies and email changes back and forth things will be lost, overwritten, or duplicated.
 
-This tutorial provides a brief but hands-on introduction to Git and
-GitHub to exercise useful workflows within GitHub.  Git is a version
-control system which allows files and data to be tracked synchronized,
-which allows collaboration and reproducibility.
-GitHub is a popular website that stores these repositories.
+You will learn how to use version control in Git to
+* Avoid mailing revisions back and forth
+* Keep track of important revisions and changes in your files
+* Collaborate with others and merge revisions in a manner that avoids work getting lost, overwritten, or duplicated.
 
-**This tutorial avoids using the command line**. Instead, we will practice collaborating and
-sharing using either the GitHub website or GitHub desktop
-application.  Why?  Because for many cases, it is enough.  Especially
-if you are contributing to existing non-code projects, this may be the
-fastest, easiest way to do it.  Git and GitHub provide collaboration
-tools to all kinds of projects, and there are all kinds of good ways
-to use it.
-
-This serves as an introduction to Git.  After this lesson, you will
-both be able to use Git, and feel much more confident taking a
-command-line course Git course such as
-[CodeRefinery's git-intro
-course](https://coderefinery.github.io/git-intro/).  Check out our
-[other upcoming workshops](https://coderefinery.org/workshops/upcoming/).
-
-> ## Why GitHub?
+> ## Getting Started
 >
-> We will do this exercise on [GitHub](https://github.com) but also
-> [GitLab](https://gitlab.com) and [Bitbucket](https://bitbucket.org) allow
-> similar workflows and basically everything that we will discuss is transferable. With
-> this material and these exercises we do not endorse the company
-> [GitHub](https://github.com). We have chosen to demonstrate a number of
-> concepts using examples with [GitHub](https://github.com) because it is
-> currently the most popular web platform for hosting Git repositories and the chance is high
-> that you will interact with [GitHub](https://github.com)-based repositories even if you
-> choose to host your Git repository on another platform.
->
-> We also encourage course participants to use our new [Nordic research software repository platform](https://source.coderefinery.org),
-> for more information see [https://coderefinery.org/repository/](https://coderefinery.org/repository/).
+> Before you begin this lession you need to 1) create a GitHub account and 2) install GitHub Desktop on your computer. See [Setup]({% link setup.md %}) for futher instructions.
 {: .prereq}
 
 
