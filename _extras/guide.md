@@ -1,6 +1,9 @@
 ---
 title: "Instructor Notes"
 ---
-> Download the [presentation slides](../assets/module-versioning-dm-practice.pdf)
+> ## Presentation slides
+> Download the [presentation slides](../module-versioning-dm-practice.pdf)
+>
+{: .prereq}
 
 {% include links.md %}
