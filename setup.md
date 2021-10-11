@@ -13,4 +13,9 @@ title: Setup
 > Optional: [Quickly get started with common tasks on GitHub](https://help.github.com/en/github/getting-started-with-github/quickstart)
 {: .prereq}
 
+> ## Presentation
+>
+> Slides for this module are available [here](module-versioning-dm-practice.pdf)
+{: .prereq}
+
 {% include links.md %}
