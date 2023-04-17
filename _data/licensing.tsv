@@ -1,4 +1,19 @@
 contentUrl	license
+fig/creating-new-R-project_New-Directory/00_create-New-R-Project-Git-RStudio.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/creating-new-R-project_New-Directory/01_create-a-New-Project-Git-RStudio.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/creating-new-R-project_New-Directory/02_inspect-Git-status-from-start-Git-RStudio.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/creating-new-R-project_New-Directory/03_create-a-README-Git-RStudio.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/creating-new-R-project_New-Directory/04_fill-in-the-README-Git-RStudio.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/creating-new-R-project_New-Directory/05_create-new-folders-Git-RStudio.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/creating-new-R-project_New-Directory/06_Git-status-after-initial-project-set-up-Git-RStudio.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/creating-new-R-project_New-Directory/07_add-new-files-to-staging-area-Git-RStudio.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/creating-new-R-project_New-Directory/08_first-commit-Git-RStudio.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/creating-new-R-project_New-Directory/09_raw-test-data-before-gitignore-Git-RStudio.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/creating-new-R-project_New-Directory/10_raw-test-data-after-gitignore-Git-RStudio.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/clone-GitHub-repo-to-RStudio/choose-Git.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/clone-GitHub-repo-to-RStudio/copy-https-from-GitHub.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/clone-GitHub-repo-to-RStudio/new-project-version-control-RStudio.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
+fig/clone-GitHub-repo-to-RStudio/paste-https-from-GitHub-to-RStudio.png	RStudio screenshot by NBIS, used to teach about RStudio, https://www.rstudio.com/about/trademark/
 fig/creating-using-web/branches-click.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-web/branches-overview.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-web/commit-experiment-branch.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
@@ -35,6 +50,7 @@ fig/basics/commits-and-branches.png	GitHub website with annotations by NBIS, Git
 fig/basics/commits-snapshots.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/basics/file-view.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/basics/history-demo.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
+fig/basics/ew-versions.png	“Final”.doc from “Piled Higher and Deeper” by Jorge Cham, www.phdcomics.com
 fig/creating-using-web/choosealicense.png	Choosealicense.com website by GitHub, CC-BY 3.0, https://creativecommons.org/licenses/by/3.0/
 data/samples_metadata_lesson.csv	Artificial data created by NBIS derived from publicaly available research data deposited in the European Nucleotide Archive (ENA) at EMBL-EBI under accession number PRJEB42601 (https://identifiers.org/ena.embl:PRJEB42601).
 module-versioning-dm-practice.pdf	Presentation CC BY 4.0 by NBIS, https://creativecommons.org/licenses/by/4.0/
