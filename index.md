@@ -19,7 +19,6 @@ You will learn how to use version control in Git to
 >
 > Before you begin this lession you need to 1) create a GitHub account and 
 > 2) install Git and RStudio on your computer. See [Setup]({% link setup.md %}) for futher instructions.
-
 {: .prereq}
 
 
