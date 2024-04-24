@@ -26,6 +26,15 @@ title: Setup
 >
 > Install Git for [Windows](https://gitforwindows.org/), [macOS](https://git-scm.com/download/mac), or [Linux](https://git-scm.com/download/linux)\
 > Optional: [Quickly get started with common tasks on GitHub](https://help.github.com/en/github/getting-started-with-github/quickstart)
+> 
+{: .prereq}
+
+> ### GitHub Desktop
+> A tool that allows you to interact with Git repositories stored on your own computer and on the 
+> GitHub cloud platform using an intuitive graphical user interface.
+> 
+> * Install by following the instructions at: <https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-github-desktop>
+> 
 {: .prereq}
 
 > ## RStudio Desktop
