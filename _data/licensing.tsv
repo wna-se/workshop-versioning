@@ -19,7 +19,6 @@ fig/creating-using-web/new-repo.PNG	GitHub website with annotations by NBIS, Git
 fig/creating-using-desktop/branch-compare.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-desktop/branch-create.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-desktop/branch-delete-local-confirm.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
-*fig/creating-using-desktop/branch-delete-local.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-desktop/branch-delete.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-desktop/branch-menu.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-desktop/branch-PR-create-remote.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
@@ -32,13 +31,11 @@ fig/creating-using-desktop/csv-commit.PNG	GitHub website with annotations by NBI
 fig/creating-using-desktop/csv-push.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-desktop/csv-stage.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-desktop/menu-PR.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
-*fig/creating-using-desktop/merge-button.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-desktop/merge-confirm.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-desktop/x-create-repo.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-desktop/x-initial-commit.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-desktop/x-new-repo.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/creating-using-desktop/x-publish-remote.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
-*fig/contributing/branch-protection.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/contributing/conflict-edit-1.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/contributing/conflict-edit-2.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/contributing/conflict-pull-request.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
@@ -52,12 +49,8 @@ fig/contributing/merge.png	GitHub website with annotations by NBIS, GitHub websi
 fig/contributing/propose-file-change.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/contributing/pull-request-form.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/contributing/review.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
-*fig/basics/commits-and-branches.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
-fig/basics/commits-snapshots.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/basics/commits.PNG	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 fig/basics/file-view.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
-*fig/basics/history-demo.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
-*data/samples_metadata_lesson.csv	Artificial data created by NBIS derived from publicaly available research data deposited in the European Nucleotide Archive (ENA) at EMBL-EBI under accession number PRJEB42601 (https://identifiers.org/ena.embl:PRJEB42601).
 data/samples_openrefine_lesson.csv	Artificial data created by NBIS derived from publicaly available research data deposited in the European Nucleotide Archive (ENA) at EMBL-EBI under accession number PRJEB42601 (https://identifiers.org/ena.embl:PRJEB42601).
 data/data_cleaning_script_openrefine_lesson.txt	Script created by NBIS, to be used in OpenRefine training module, https://github.com/NBISweden/module-openrefine-dm-practices.
 module-versioning-dm-practice.pdf	Presentation CC BY 4.0 by NBIS, https://creativecommons.org/licenses/by/4.0/
