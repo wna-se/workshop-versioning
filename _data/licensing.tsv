@@ -53,4 +53,4 @@ fig/basics/commits.PNG	GitHub website with annotations by NBIS, GitHub website s
 fig/basics/file-view.png	GitHub website with annotations by NBIS, GitHub website screenshot used to teach about GitHub, https://github.com/logos
 data/samples_openrefine_lesson.csv	Artificial data created by NBIS derived from publicaly available research data deposited in the European Nucleotide Archive (ENA) at EMBL-EBI under accession number PRJEB42601 (https://identifiers.org/ena.embl:PRJEB42601).
 data/data_cleaning_script_openrefine_lesson.txt	Script created by NBIS, to be used in OpenRefine training module, https://github.com/NBISweden/module-openrefine-dm-practices.
-module-versioning-dm-practice.pdf	Presentation CC BY 4.0 by NBIS, https://creativecommons.org/licenses/by/4.0/
+files/module-versioning-dm-practice.pdf	Presentation CC BY 4.0 by NBIS, https://creativecommons.org/licenses/by/4.0/
